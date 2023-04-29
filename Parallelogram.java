@@ -5,10 +5,12 @@ public class Parallelogram extends Quadrilateral {
         super(s1, s2, s1, s2);
         height = h;
     }
-    
+
+
 
     public double CalculateArea() {
         return side1 * height;
     }
 
 }
+
