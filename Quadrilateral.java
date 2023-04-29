@@ -16,6 +16,7 @@ public abstract class Quadrilateral {
     public double CalculatePerimeter() {
         return side1 + side2 + side3 + side4;
     }
+    
 }
 
 
