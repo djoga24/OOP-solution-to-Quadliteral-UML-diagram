@@ -4,7 +4,7 @@ public class Main {
         Parallelogram parallelogram = new Parallelogram(6, 7, 3);
         Rhombus rhombus = new Rhombus(6, 8);
         Rectangle rectangle = new Rectangle(4, 9);
-        Square square = new Square(5);
+        Square square = new Square(6);
 
         System.out.println();
 
