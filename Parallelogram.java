@@ -9,4 +9,5 @@ public class Parallelogram extends Quadrilateral {
     public double CalculateArea() {
         return side1 * height;
     }
+    
 }
