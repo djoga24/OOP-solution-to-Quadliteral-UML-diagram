@@ -10,6 +10,7 @@ public class Rhombus extends Quadrilateral {
         diagonal1 = d1;
         diagonal2 = d2;
     }
+    
 
     public double CalculateArea() {
         return diagonal1 * diagonal2 / 2;
