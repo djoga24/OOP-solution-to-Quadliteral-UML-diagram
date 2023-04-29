@@ -6,5 +6,6 @@ public class Rectangle extends Quadrilateral {
 
     public double CalculateArea() {
         return side1 * side2;
+
     }
 }
